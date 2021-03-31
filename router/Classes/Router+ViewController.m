@@ -3,7 +3,7 @@
 //  UCS-IM-Personnal
 //
 //  Created by hzh on 2018/11/15.
-//  Copyright © 2018年 simba.pro. All rights reserved.
+//  Copyright © 2018年 hzh. All rights reserved.
 //
 
 #import "router+ViewController.h"
